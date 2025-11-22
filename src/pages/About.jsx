@@ -3,8 +3,8 @@ export default function About() {
     <div className="about">
       <h2>Your Project Page</h2>
       <p>
-        Use this page to describe your project! You can rename it,
-        add sections for team members, features, or demos.
+        Use this page to describe your project! You can rename it, add sections
+        for team members, features, or demos.
       </p>
       <div className="card-grid">
         <div className="card">
@@ -21,5 +21,5 @@ export default function About() {
         </div>
       </div>
     </div>
-  )
+  );
 }
