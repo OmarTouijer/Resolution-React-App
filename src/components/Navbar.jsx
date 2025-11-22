@@ -7,6 +7,9 @@ export default function Navbar() {
       <div className="nav-links">
         <Link to="/">Home</Link>
         <Link to="/about">Project Page</Link>
+        <Link to="/vault">Vault</Link>
+        <Link to="/signin">Sign In</Link>
+        <Link to="/signup">Sign Up</Link>
       </div>
     </nav>
   )
